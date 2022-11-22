@@ -1,2 +1,0 @@
-# EloRankingWebsite
-Created with CodeSandbox
